@@ -51,7 +51,7 @@ public class Dog {
     }
 
 
-    public boolean getIsFed() {
+    public boolean isFed() {
         return isFed;
     }
 
